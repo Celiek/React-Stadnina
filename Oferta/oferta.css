@@ -1,0 +1,24 @@
+.vertical-text {
+    transform: rotate(180deg);
+    writing-mode: vertical-lr;
+    margin-top: 20px;
+    font-size: 3.5rem;
+    color: #9B885E;
+}
+
+.body {
+    margin: 0;
+    padding: 0;
+     background-image: url(""); 
+}
+
+.button-wiecej {
+    background-color: #9A8A4E;
+    font-size: 2rem;
+    border: none;
+    border-radius: 2px;
+    width: 300px;
+    height: 100px;
+    color: #7D4600;
+    
+}

@@ -1,0 +1,26 @@
+.body{
+    margin: 0;
+    padding: 0;
+    background-image: url("./assets/background.png");
+}
+
+.bg {
+    background-image: url("./assets/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.welcome-div {
+    font-size: 1.8rem;
+    height: 400px;
+    flex: 4;
+    background-color: transparent;
+}
+
+.welcome-text-div {
+    font-size: 1.8rem;
+    height: 400px;
+    flex: 8;
+    background-color: transparent;
+    margin-left: 20px;
+}
